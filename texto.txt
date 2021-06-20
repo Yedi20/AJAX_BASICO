@@ -1,0 +1,9 @@
+Probando el puto texto pero no se como ponerlp en el primer tuto.
+se suopone.
+
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
+Odio error veritatis placeat! Eius quo magnam quaerat illo velit qui,
+ veritatis placeat ea consequatur a nihil vitae aliquid nemo sint iusto?
+lorem=fa-rotate-180
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illum corporis nisi fugiat et! Vel voluptatem vitae rerum,\
+ dicta voluptates optio tempora delectus distinctio consequuntur eligendi odit iure repellat voluptas suscipit?
